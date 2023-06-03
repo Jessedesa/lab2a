@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2a</string>
+    <string name="toast_message">Label has been updated.</string>
+    <string name="textview_message">I love Android</string>
+    <string name="edittext_message">I love Android</string>
+    <string name="checkbox_message">Check this out!</string>
+    <string name="button_message">Press me</string>
+    <string name="switch_message">Switch on/off</string>
+</resources>

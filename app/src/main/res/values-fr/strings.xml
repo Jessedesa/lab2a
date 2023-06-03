@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">lab2a</string>
+        <string name="toast_message">L\'étiquette a été mise à jour.</string>
+        <string name="textview_message">Je t\'aime Android</string>
+        <string name="edittext_message">Je t\'aime Android</string>
+        <string name="checkbox_message">Regarde ça!</string>
+        <string name="button_message">Appuyez sur moi</string>
+        <string name="switch_message">Allumer / éteindre</string>
+    </resources>
